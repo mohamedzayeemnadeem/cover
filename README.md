@@ -146,5 +146,6 @@ Output:
 
 
 
-Result:
+# Result:
+
 Thus a website to display the cover page design of a book was successfully created.
